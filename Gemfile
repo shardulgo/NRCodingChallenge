@@ -17,8 +17,14 @@ gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
+# React-rails
+gem 'react-rails', '~> 1.7', '>= 1.7.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+
+# Bootstrap & Faker
+gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'faker', '~> 1.7', '>= 1.7.2'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
