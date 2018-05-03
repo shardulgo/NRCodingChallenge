@@ -13,13 +13,13 @@ Jest for Testing
 
 **DEPENDENCIES**
 These are also outlined in the gem file; however, here are the ones I added:
-Bootstrap for styling
-Faker for creating fake data
-React-Rails
+- Bootstrap for styling
+- Faker for creating fake data
+- React-Rails
 
-With more time, I would have:
+**With more time, I would have:**
 
--Wrote tests would be written in Jest
--Integrated faker data into the app instead of
--Done some code refactoring.  For example, creating components of each area and properly managing the states across the app.
--Created a dropdown instead of a same filter for both areas.
+- Wrote tests would be written in Jest
+- Integrated faker data into the app instead of
+- Done some code refactoring.  For example, creating components of each area and properly managing the states across the app.
+- Created a dropdown instead of a same filter for both areas.
